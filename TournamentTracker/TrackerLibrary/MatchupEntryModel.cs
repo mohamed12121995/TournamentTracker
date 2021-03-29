@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TrackerLibrary
 {
-    class MatchupEntryModel
+    public class MatchupEntryModel
     {
         /// <summary>
         /// Represents one team in the matchup

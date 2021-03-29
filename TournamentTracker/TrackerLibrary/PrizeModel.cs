@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TrackerLibrary
 {
-    class PrizeModel
+    public class PrizeModel
     {
         /// <summary>
         /// Represents the position of a team in the tournament and the prizeamount

@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\moham\\OneDrive\\Desktop\\C#\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\moham\\Source\\Repos\\mohamed12121995\\TournamentTracker\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
       "projectName": "TrackerLibrary",
-      "projectPath": "C:\\Users\\moham\\OneDrive\\Desktop\\C#\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
+      "projectPath": "C:\\Users\\moham\\Source\\Repos\\mohamed12121995\\TournamentTracker\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
       "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\moham\\OneDrive\\Desktop\\C#\\TournamentTracker\\TrackerLibrary\\obj\\",
+      "outputPath": "C:\\Users\\moham\\Source\\Repos\\mohamed12121995\\TournamentTracker\\TournamentTracker\\TrackerLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

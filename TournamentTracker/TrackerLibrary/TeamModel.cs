@@ -13,6 +13,6 @@ namespace TrackerLibrary
         /// <summary>
         /// Represent a team member within the team
         /// </summary>
-        public string TeamMember { get; set; }
+        public string TeamName { get; set; }
     }
 }
