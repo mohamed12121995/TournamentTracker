@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TrackerLibrary
 {
-    class PersonModel
+    public class PersonModel
     {
         /// <summary>
         /// Represents the details of a single team member

@@ -7,3 +7,16 @@ C:\Users\moham\OneDrive\Desktop\C#\TournamentTracker\TrackerUI\obj\Debug\Tracker
 C:\Users\moham\OneDrive\Desktop\C#\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
 C:\Users\moham\OneDrive\Desktop\C#\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.exe
 C:\Users\moham\OneDrive\Desktop\C#\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.pdb
+C:\Users\moham\Source\Repos\mohamed12121995\TournamentTracker\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe.config
+C:\Users\moham\Source\Repos\mohamed12121995\TournamentTracker\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe
+C:\Users\moham\Source\Repos\mohamed12121995\TournamentTracker\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.pdb
+C:\Users\moham\Source\Repos\mohamed12121995\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csprojAssemblyReference.cache
+C:\Users\moham\Source\Repos\mohamed12121995\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreatePrizeForm.resources
+C:\Users\moham\Source\Repos\mohamed12121995\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTeamForm.resources
+C:\Users\moham\Source\Repos\mohamed12121995\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTournamentForm.resources
+C:\Users\moham\Source\Repos\mohamed12121995\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.Properties.Resources.resources
+C:\Users\moham\Source\Repos\mohamed12121995\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentDashboardForm.resources
+C:\Users\moham\Source\Repos\mohamed12121995\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentViewerForm.resources
+C:\Users\moham\Source\Repos\mohamed12121995\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
+C:\Users\moham\Source\Repos\mohamed12121995\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.exe
+C:\Users\moham\Source\Repos\mohamed12121995\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.pdb

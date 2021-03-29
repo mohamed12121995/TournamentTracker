@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TrackerLibrary
 {
-    class MatchupModel
+    public class MatchupModel
     {
         /// <summary>
         /// Represents the total amount of teams in the tournament
