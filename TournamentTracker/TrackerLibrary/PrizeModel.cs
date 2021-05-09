@@ -9,6 +9,8 @@ namespace TrackerLibrary
         /// <summary>
         /// Represents the position of a team in the tournament and the prizeamount
         /// </summary>
+
+        public int ID { get; set; }
         public int PlaceNumber { get; set; }
         public string PlaceName { get; set; }
         public decimal PrizeAmount { get; set; }
