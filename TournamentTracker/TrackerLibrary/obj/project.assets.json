@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\moham\\source\\repos\\TournamentTrackerNew\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\moham\\Source\\Repos\\TournamentTracker\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
       "projectName": "TrackerLibrary",
-      "projectPath": "C:\\Users\\moham\\source\\repos\\TournamentTrackerNew\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
+      "projectPath": "C:\\Users\\moham\\Source\\Repos\\TournamentTracker\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
       "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\moham\\source\\repos\\TournamentTrackerNew\\TournamentTracker\\TrackerLibrary\\obj\\",
+      "outputPath": "C:\\Users\\moham\\Source\\Repos\\TournamentTracker\\TournamentTracker\\TrackerLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config",
