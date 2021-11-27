@@ -23,9 +23,12 @@ namespace TrackerLibrary
         /// </summary>
         public List<PrizeModel> Prizes { get; set; } = new List<PrizeModel>();
         /// <summary>
-        /// list of matchups within a specific round of the tournament
+        /// list of prizes
         /// </summary>
         public List<List<MatchupModel>> Rounds { get; set; } = new List<List<MatchupModel>>();
+        /// <summary>
+        /// list of matchups within a specific round of the tournament
+        /// </summary>
 
     }
 }
