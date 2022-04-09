@@ -30,6 +30,11 @@ namespace TrackerUI
                     placeNumberValue.Text, 
                     prizeAmountValue.Text, 
                     prizePercentageValue.Text);
+                // list of global connections
+                foreach (IDataConnection db in GlobalConfig.Connections)
+                {
+                    db.CreatePrize(model);
+                }
        
             }
         }
@@ -38,7 +43,6 @@ namespace TrackerUI
         {
             // validate 4 fields first before clicking
             bool output = true;
-
             // Place number
             int placeNumber = 0;
             //create boolean which converts string to number
