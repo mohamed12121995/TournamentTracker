@@ -139,7 +139,6 @@
             this.orLAbel.Size = new System.Drawing.Size(68, 37);
             this.orLAbel.TabIndex = 26;
             this.orLAbel.Text = "-Or-";
-            this.orLAbel.Click += new System.EventHandler(this.label1_Click);
             // 
             // createPrizeButton
             // 
