@@ -6,7 +6,7 @@ namespace TrackerLibrary
 {
     public class SqlConnector : IDataConnection
     {
-        // Saves new prixe to the database
+        // Saves new prize to the database
         //TODO - Make the CreatePrize method actually save to the database
         public PrizeModel CreatePrize(PrizeModel model)
         {

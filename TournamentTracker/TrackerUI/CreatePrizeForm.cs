@@ -26,17 +26,19 @@ namespace TrackerUI
                 // model.PlaceName = placeNameValue.Text - instead of creating this a constructor can be created so it makes it easier
 
                 PrizeModel model = new PrizeModel(
-                    placeNameValue.Text, 
-                    placeNumberValue.Text, 
-                    prizeAmountValue.Text, 
+                    placeNameValue.Text,
+                    placeNumberValue.Text,
+                    prizeAmountValue.Text,
                     prizePercentageValue.Text);
                 // list of global connections
                 foreach (IDataConnection db in GlobalConfig.Connections)
                 {
                     db.CreatePrize(model);
                 }
-       
+
             }
+            else
+                MessageBox.Show("This form has invalid information, please check and try again");
         }
 
         private bool ValidateForm()

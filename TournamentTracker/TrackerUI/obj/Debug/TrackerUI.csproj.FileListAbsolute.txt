@@ -1,0 +1,7 @@
+C:\Users\moham\Desktop\Source code\New\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.AssemblyReference.cache
+C:\Users\moham\Desktop\Source code\New\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreatePrizeForm.resources
+C:\Users\moham\Desktop\Source code\New\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTeamForm.resources
+C:\Users\moham\Desktop\Source code\New\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTournamentForm.resources
+C:\Users\moham\Desktop\Source code\New\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentDashboardForm.resources
+C:\Users\moham\Desktop\Source code\New\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentViewerForm.resources
+C:\Users\moham\Desktop\Source code\New\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
